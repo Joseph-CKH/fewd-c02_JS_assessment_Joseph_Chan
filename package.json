@@ -8,5 +8,16 @@
   "dependencies": {
     "clear-screen": "^1.0.0",
     "prompt-sync": "^4.1.7"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-CKH/fewd-c02_JS_assessment_Joseph_Chan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joseph-CKH/fewd-c02_JS_assessment_Joseph_Chan/issues"
+  },
+  "homepage": "https://github.com/Joseph-CKH/fewd-c02_JS_assessment_Joseph_Chan#readme"
 }
